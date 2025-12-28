@@ -288,24 +288,6 @@ pip install opencv-python
 
 ---
 
-## 📚 Documentation
-
-### For Users
-- See "How to Use" section in the app
-- Watch demo video: [link]
-
-### For Developers
-- Code is heavily commented
-- Each module has docstrings
-- See `/docs` folder for API documentation
-
-### For Academics
-- Research paper: `/docs/research_paper.pdf`
-- Technical documentation: `/docs/technical_spec.pdf`
-- Presentation slides: `/docs/presentation.pptx`
-
----
-
 ## 🤝 Contributing
 
 Contributions welcome! Please:
@@ -314,21 +296,6 @@ Contributions welcome! Please:
 3. Make changes with tests
 4. Submit pull request
 
----
-
-## 📄 License
-
-MIT License - see LICENSE file for details
-
----
-
-## 👨‍💻 Author
-
-**[Your Name]**
-- University: [Your University]
-- Email: [your.email@example.com]
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
 
 ---
 
@@ -342,26 +309,5 @@ MIT License - see LICENSE file for details
 
 ---
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/green-rooftop-analyzer/issues)
-- **Email**: your.email@example.com
-- **Documentation**: See `/docs` folder
-
----
-
-## 🎯 Project Status
-
-- [x] Core functionality complete
-- [x] ML models integrated
-- [x] API integrations working
-- [x] UI/UX polished
-- [ ] Documentation in progress
-- [ ] Testing & optimization ongoing
-
-**Version**: 1.0.0  
-**Last Updated**: [Current Date]
-
----
-
-Made with 💚 for a greener future
+Made for a greener future
