@@ -1,0 +1,49 @@
+# Green Rooftop Analyzer - Minimal Requirements
+# Fast track version - Only essentials
+
+# Core Framework
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+
+# ML & Computer Vision (Lightweight)
+opencv-python>=4.8.0
+scikit-image>=0.21.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Pre-trained Models (No training needed)
+segment-anything>=1.0  # Meta's SAM for segmentation
+torch>=2.0.0
+torchvision>=0.15.0
+
+# APIs
+google-generativeai>=0.3.0
+requests>=2.31.0
+geopy>=2.4.0
+
+# Data & Visualization
+pandas>=2.0.0
+plotly>=5.17.0
+matplotlib>=3.7.0
+
+# PDF Generation
+fpdf2>=2.7.0
+
+# Utilities
+tqdm>=4.66.0
+
+# For interactive charts and graphs (gauges, radar, bar charts)
+plotly==5.17.0
+
+# Optional: For better results
+# rembg>=2.0.50  # Background removal (if needed)
+
+# Installation Notes:
+# 1. Install PyTorch first (CPU version for fast setup):
+#    pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+# 
+# 2. Then install others:
+#    pip install -r requirements.txt
+#
+# 3. For GPU (if available):
+#    pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
